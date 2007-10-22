@@ -3,7 +3,7 @@
 Plugin Name: Snippet Highlight
 Plugin URI: http://wordpress.designpraxis.at
 Description: A filter using Dean Edwards' http://dean.edwards.name/ star-light for highlighting of code snippets. Usage: embedd code between &lt;pre&gt; &lt;/pre&gt; tags. apply code language as css class: php, css, js etc.
-Version: 1.0
+Version: 1.1
 Author: Roland Rust
 Author URI: http://wordpress.designpraxis.at
 */
