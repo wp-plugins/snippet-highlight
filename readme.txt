@@ -3,7 +3,7 @@ Contributors: wpdprx
 Donate link: http://wordpress.designpraxis.at/
 Tags: post, Formatting, snippet, code, highlighting, line numbering, 
 Requires at least: 2.1
-Tested up to: 2.2.2
+Tested up to: 2.3.1
 
 Highlights your code snippets. With line numbering.
 
