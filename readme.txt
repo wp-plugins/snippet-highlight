@@ -9,8 +9,8 @@ Highlights your code snippets. With line numbering.
 
 == Description ==
 
-After reading about Dean Edwards ?star-light? syntax highlighting library on phpblogger.net,
-I decided to turn the results of their tutorial into a WordPress Plugin called ?Snippet-Highlight?.
+After reading about Dean Edwards star-light syntax highlighting library on phpblogger.net,
+I decided to turn the results of their tutorial into a WordPress Plugin called Snippet-Highlight.
 
 
 == Installation ==
